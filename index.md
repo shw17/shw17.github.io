@@ -1,5 +1,5 @@
 # Welcome to my GitHub Page
-![Image of first](https://github.com/shw17/shw17.github.io/blob/main/IMG_2158.JPG)
+![Image of first](/IMG_2158.JPG)
  Enjoy the picture
 
 <!-- You can use the [editor on GitHub](https://github.com/shw17/shw17.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
