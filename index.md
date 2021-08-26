@@ -8,3 +8,4 @@
 <h3 align='center'>
  <i> Picture of an old town</i>
 
+ <p style='text-align:jusify'> lalalalallala</p>
