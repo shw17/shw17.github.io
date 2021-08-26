@@ -1,10 +1,11 @@
 ## Welcome to my GitHub Pages
+![Image of Cover](https://github.com/shw17/shw17.github.io/blob/main/IMG_2158.JPG)
 
-You can use the [editor on GitHub](https://github.com/shw17/shw17.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/shw17/shw17.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
-### Markdown
+<!-- ### Markdown -->
 
 # This is my first Github page
 ## Header 2
